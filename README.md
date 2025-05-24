@@ -17,3 +17,8 @@ lan-chat /
           server.js
           package.json
 
+#To connect other devices to your server :
+1.Get the ip of the interface you are using to connect (hotspot).
+2.Go to you browser and put this in:
+          <ip>:(PORT)
+
